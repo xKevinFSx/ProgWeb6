@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ciclo de Vida GPS e Mapas</string>
+    <string name="action_settings">Configurações</string>
+    <string name="no_gps_no_app">Sem o GPS o aplicativo não funciona</string>
+</resources>
